@@ -1,4 +1,4 @@
 Hi there! My name is Nikita Malyshev.
 
-Iam a Python developer with knowledge in technologies such as PostgreSQL, Linux, Git, CI/CD, HTML, HTTP, OOP.
-https://camo.githubusercontent.com/81d983188c1409436c9b1aef31b601b63bfa3c3d55ec681d07df4cdcb64fa446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444a414e474f2d524553542d6666313730393f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d776869746526636f6c6f723d666631373039266c6162656c436f6c6f723d67726179
+I'am a Python developer with knowledge in technologies such as PostgreSQL, Linux, Git, CI/CD, HTML, HTTP, OOP.
+https://www.codewars.com/users/juugboi/badges/large
