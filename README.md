@@ -1,6 +1,6 @@
 Hi there! My name is Nikita Malyshev.
 
-I'am a Python developer with knowledge in technologies such as PostgreSQL, Linux, Git, CI/CD, HTML, HTTP, OOP.
+I'am a Python developer with knowledge in such technologies as PostgreSQL, Linux, Git, CI/CD, HTML, HTTP, OOP.
 
 ## Contacts
 
