@@ -1,6 +1,3 @@
-Hi 👋 My name is Nikita Malyshev
-================================
-
 Back-end developer
 ------------------
 
