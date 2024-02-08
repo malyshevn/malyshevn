@@ -6,7 +6,7 @@ Back-end developer
 
 * 🌍  I'm based in Ulyanovsk, Russia
 * ✉️  You can contact me at [malyshevceo@yandex.ru](mailto:malyshevceo@yandex.ru)
-* 🧠  I'm learning SQL, Django and OOP
+* 🧠  I'm currently learning SQL, Django and OOP
 
 ### Skills
 
