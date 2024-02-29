@@ -1,68 +1,3 @@
-ProfileMe.dev
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2024 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-Previous section
-Next section
-STYLE BADGES:
-
-
- 
-TITLE
-EDIT
-
- 
-TEXT
-EDIT
-
- 
-ICONS
-EDIT
-
- 
-BACKGROUND
-EDIT
-GitHub
-STATS CARD
-SHOW:
-
-Stars
-Commits
-PRs
-Issues
-Contributions
-Private Commits
-COMMIT STREAK
-COMMITS GRAPH
-TOP LANGUAGES
-TOP REPOSITORIES
-FOLLOWER COUNT
-Twitter
-Please add your X profile in the socials section.
-
-FOLLOWER COUNT
-Twitch
-Please add your Twitch profile in the socials section.
-
-STREAMING STATUS
-Previous section
-Next section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Nikita Malyshev
 ================================
 
@@ -87,5 +22,3 @@ Back-end developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/malyshevn"><img src="https://github-readme-stats.vercel.app/api?username=malyshevn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="malyshevn's GitHub stats" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
